@@ -1,0 +1,87 @@
+<html>
+<head>
+	<title>About Diana</title>
+	<link rel="stylesheet" href="stylescontact.css">
+</head>
+<body>
+<center>
+<header class="header">
+	<div class="container">
+		<div class="header_inner">
+			<nav class="nav">
+				<a class="nav_link" href="index.html">HOME</a>
+				<a class="nav_link" href="gallery.html">GALLERY</a>
+				<a class="nav_link" href="contact.html">ABOUT ME</a>
+			</nav>
+		</div>
+	</div>
+</header><br>
+
+<h1 id="specialHeader"><img id="specialImg" src="IMG-20210307-WA0024.jpg">DIANA SCHWARTZ</h1>
+
+		<p><b>ABOUT ME:</b></p>
+		<p style="color:DarkSlateGray">Having experience of business management, work with customers and investigations,<br> 
+			having personal qualities as creativity, independency and thinking out of a box,<br> 
+			and being a natural problem solver, I am looking for a career in Quality Assurance.<br> 
+			I am confident that I will make an excellent asset to the role, I am a quick learner,<br> 
+			a team player, and I'm ready for the challenge.</p>
+			<hr>
+		<p><b>EDUCATION:</b></p>
+			<p style="color:DarkSlateGray"><b>2022</b><br>
+			QA Software tester course with specialization in automation<br>
+			<a href="https://automation.co.il/" target="_blank"> Automation College</a>
+			</p>
+			
+			<p style="color:DarkSlateGray"><b>2008-2021</b><br>
+			A lot of cources of cosmetology services, refresher courses, business promotion courses</p>
+			
+		<p style="color:DarkSlateGray"><b>2000-2004</b><br>Kazan Law Institute Ministry of Internal Affairs of Russia<br>
+			Bachelor of Laws - LLB, Law Enforcement Investigation and Interviewing</p>
+						
+			<hr>
+		
+		<p><b>WORK EXPERIENCE:</b></p>
+			<p style="color:DarkSlateGray"><b>2010-2022</b><br>
+			Founder & Owner of beauty centre "DIANA SCHWARTZ BEAUTY" in Israel
+			</p>
+			<p style="color:DarkSlateGray"><b>2004-2009</b><br>
+			Crime Investigator of Main Investigative Department @ Ministry of Internal Affairs of Russia
+			</p>
+			<hr>
+			<p><b>HOBBY:</b>
+		<p style="color:DarkSlateGray">My hobby is 
+		<a href="https://www.instagram.com/national__range/" target="_blank">OLYMPIC AIR PISTOL SHOOTING</a>.<br> 
+		I'm a member of the Arcus Target Shooting Club of the Israel Shooting Federation.<br>
+		I train in a club in a 10 metre shoting range. 
+		I also take part in all competitions of Olympic pistol shooting
+		in Israel.<br> 		
+		The 10 metre air pistol is an Olympic shooting event governed<br>
+		by the International 
+		Shooting Sport Federation (ISSF), that is always held on Olympic Games.</p>
+		
+		<hr>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<a href="https://www.linkedin.com/in/dianaschwartz77" class="fa fa-linkedin" target="_blank"></a>
+		<a href="https://www.facebook.com/diana.shvartz.7" class="fa fa-facebook" target="_blank"></a>
+
+<br>
+<p class="color"> <b>&#9990;</b> +972 54 947 3645</p>
+<p class="color"> <b>&#9993;</b> dianashvartz2@gmail.com</p>
+<p class="color"> <b></b> Barkan, Israel</p>
+	
+	<hr>
+	
+<div class="container">
+		<div class="header_inner">
+			<nav class="nav">
+				<a class="nav_link" href="index.html">HOME</a>
+				<a class="nav_link" href="gallery.html">GALLERY</a>
+				<a class="nav_link" href="contact.html">ABOUT ME</a>
+			</nav>
+		</div>
+	</div>
+
+</center>
+</body>
+</html>

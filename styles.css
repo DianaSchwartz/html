@@ -1,0 +1,70 @@
+body {
+	font-family: Arial;
+	line-height: 1.6;
+}
+
+.header {
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left:0;
+	right: 0;
+	z-index: 1000;
+}
+
+.nav {
+	font-size: 20px;
+}
+
+.nav_link {
+	display: inline-block;
+	vertical-align: top;
+	margin: 15;
+	text-decoration: none;
+}
+.nav_link:hover {
+	color: #FF8A65;
+	
+} 
+
+
+img {
+  border-radius: 8px;
+  width: 600;
+  height: 380;
+}
+
+#specialStyle {
+	width: 230;
+	height: 300;
+}
+
+#black {
+	color: #37474F;
+}
+
+
+#specialSize {
+	width: 370;
+	height: 220;
+}
+
+
+td {
+  font-size: 30px;
+  color: DarkSlateGray;
+}
+h1 {
+	font-style: Lucida Console; font-size: 50px; background-color: LightGray; color: #37474F;
+}
+.font {
+	font-size: 20px;
+}
+p {
+	font-size: 26px;
+}
+
+#specialHeight {
+	width: 400;
+	height: 550;
+}
