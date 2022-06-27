@@ -30,8 +30,8 @@ body {
 
 img {
   border-radius: 8px;
-  width: 600;
-  height: 350;
+  width: 520;
+  height: 300;
 }
 
 #specialStyle {
@@ -58,7 +58,7 @@ h1 {
 	font-style: Lucida Console; font-size: 50px; background-color: LightGray; color: #37474F; width: 100%;
 }
 .font {
-	font-size: 18px;
+	font-size: 17px;
 }
 p {
 	font-size: 26px;
