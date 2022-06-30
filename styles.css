@@ -83,7 +83,8 @@ p {
 .column {
   float: left;
   width: 45%;
-	margin-right: 3%;
+	margin-right: 2%;
+	margin-left: 2%;
 
 }
 
