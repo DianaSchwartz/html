@@ -74,6 +74,9 @@ p {
 .thumb img {
 	margin-bottom: 5px;
 	margin-right: 5px;
+	border-radius: 8px;
+	width: 600;
+	height: 370;
 }
 
 
