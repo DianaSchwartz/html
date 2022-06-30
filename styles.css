@@ -27,7 +27,6 @@ body {
 	
 } 
 
-
 img {
   border-radius: 8px;
   width: 600;
@@ -43,23 +42,27 @@ img {
 	color: #37474F;
 }
 
-
 #specialSize {
 	width: 370;
 	height: 220;
+	margin-bottom: 40px;
+	margin-right: 10px;
 }
-
 
 td {
   font-size: 30px;
   color: DarkSlateGray;
 }
+
 h1 {
 	font-style: Lucida Console; font-size: 50px; background-color: LightGray; color: #37474F; width: 100%;
 }
+
 .font {
 	font-size: 18px;
+	color: DarkSlateGray;
 }
+
 p {
 	font-size: 26px;
 }
@@ -70,6 +73,25 @@ p {
 }
 
 .thumb img {
-	margin-bottom: 2px;
+	margin-bottom: 5px;
 	margin-right: 5px;
 }
+
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ul {
+	font-size: 18px;
+	color: DarkSlateGray;
+}
+
