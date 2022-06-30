@@ -68,3 +68,7 @@ p {
 	width: 380;
 	height: 520;
 }
+
+.thumb img {
+	margin-bottom: 2px;
+}
